@@ -1,6 +1,4 @@
-# AYASCELL-PC-Optimizer
-
-# AYASCELL PC Optimizer v1.0.0
+# AYASCELL-PC-Optimizer v1.0.0
 
 Windows PC'niz için gelişmiş optimizasyon ve temizlik aracı.
 
