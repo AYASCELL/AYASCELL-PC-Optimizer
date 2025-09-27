@@ -112,10 +112,6 @@ Windows PC'niz için gelişmiş optimizasyon ve temizlik aracı.
 - SSD kullanıyorsanız işlemler daha hızlı olacaktır
 - Çok sayıda dosyası olan sistemlerde tarama uzun sürebilir
 
-### İletişim
-- **E-posta:** support@ayascell.com
-- **Web:** www.ayascell.com
-
 ## 📝 Lisans
 
 Bu yazılım ev kullanımı içindir.
