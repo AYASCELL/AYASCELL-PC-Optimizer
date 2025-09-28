@@ -32,7 +32,7 @@ Windows PC'niz için gelişmiş optimizasyon ve temizlik aracı.
 ## 📦 Kurulum Seçenekleri
 
 ### 1. Single File (Önerilen) 
-- **Dosya:** `AYASCELL.PcOptimizer.exe` (~170 MB)
+- **Dosya:** `AYASCELL-PC-Optimizer-v1.0.0-Portable-SingleFile.zip` (~170 MB)
 - **Avantajlar:** 
   - Tek dosya, kolay taşınabilir
   - .NET runtime gerekmez
@@ -40,7 +40,7 @@ Windows PC'niz için gelişmiş optimizasyon ve temizlik aracı.
 - **Kurulum:** Exe dosyasını istediğiniz klasöre kopyalayın
 
 ### 2. Framework-Dependent
-- **Dosya:** `AYASCELL.PcOptimizer.exe` (~550 KB)  
+- **Dosya:** `AYASCELL-PC-Optimizer-v1.0.0-Framework-Dependent.zip` (~550 KB)  
 - **Avantajlar:**
   - Çok küçük dosya boyutu
   - Sistem kaynaklarını verimli kullanır
