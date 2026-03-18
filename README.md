@@ -116,6 +116,8 @@ Windows PC'niz için gelişmiş optimizasyon ve temizlik aracı.
 
 Bu yazılım ev kullanımı içindir.
 
+## Teknolojiler
+- C# , .NET WindowsForms
 ## 📈 Sürüm Geçmişi
 
 **v1.0.0** (Mevcut)
