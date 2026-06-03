@@ -127,6 +127,7 @@ Bu yazılım ev kullanımı içindir.
 - Türkçe arayüz
 - Modern WPF tasarımı
 
+Bu yazılım Freeware (Ücretsiz Yazılım) olarak sunulmuştur. İsteyen herkes indirip bilgisayarında kullanabilir ancak kaynak kodları kapalıdır (Closed-Source). İzinsiz kopyalanamaz, değiştirilemez veya ticari amaçla satılamaz.
 ---
 
 🔥 **AYASCELL PC Optimizer** - Performansınızı Artırın! 🔥
